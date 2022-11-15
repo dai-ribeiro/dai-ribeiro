@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- Data Engineer
-- Lifetime student
-- Gamer
-- Geek
+- :woman_technologist: Data Engineer
+- :nerd_face: Geek
+- :video_game: Gamer
 
 
 
